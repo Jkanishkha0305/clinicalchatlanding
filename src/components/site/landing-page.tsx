@@ -128,7 +128,7 @@ export function LandingPage() {
       <div className="page-aura page-aura--right" />
 
       <header className="sticky top-4 z-50 px-4 sm:px-6">
-        <div className="nav-shell">
+        <div className="nav-shell mx-auto w-full max-w-[1120px]">
           <Link href="/" className="flex items-center gap-3 text-[#103138] no-underline">
             <span className="brand-lockup__mark">
               <AxentraMark />
